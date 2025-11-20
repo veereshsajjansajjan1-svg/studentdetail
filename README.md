@@ -1,0 +1,2 @@
+# studentdetail
+store data
